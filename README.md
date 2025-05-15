@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/358DyKf.jpeg" alt="banner">
-<h1 align="center"><img src="https://i.imgur.com/JAShdn1.jpeg" width="22px"> BaYjid BOT</h1
+![logo](https://github.com/NILAM-RAI/NILAM-RAI/blob/main/INFO/images%20(9).jpeg)
 
+* MISS NEHA THAKUR
 
 ## C3C FBstate
 
@@ -28,10 +28,6 @@ account.txt { delete }
 account.dev.txt { right }
 ```
 
-Enjoy the running render 🙂❤️🦆
+* ENJOY IN THE DEPLOYMENT TO RENDER 🙂❤️🦆
 
-**YOUTUBE**
 
-Goatbot running from youtube video
-[BAYJID](https://www.youtube.com/@BAYJID-6t9).
-- 
